@@ -8,6 +8,7 @@ Cấu hình:
 - Nhớ cập nhật ACPI nếu cấu hình không tương tự
 - Build usbMAP bằng USBMAPTOOL
 
+```json
 {
     "Motherboard": {
         "Name": "MICRO-STAR MS-7B28",
@@ -405,3 +406,4 @@ Cấu hình:
         }
     }
 }
+```
